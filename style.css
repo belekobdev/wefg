@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.box {
+	cursor: pointer;
+	width: 200px;
+	height: 150px;
+	border: 1px dashed gray;
+	margin: 2px;
+}
